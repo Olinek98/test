@@ -6,6 +6,7 @@ text = surowe_info.text
 # Cel:
 # Lista linków (wszytkich).
 
+# :) 
 # przykładowe rozwiązanie:
 lista = [
     "link1.pl",
