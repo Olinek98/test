@@ -7,6 +7,7 @@ text = surowe_info.text
 # Lista linków (wszytkich).
 
 # :) 
+# :))
 # przykładowe rozwiązanie:
 lista = [
     "link1.pl",
